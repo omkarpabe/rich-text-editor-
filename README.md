@@ -1,15 +1,15 @@
-# rich-text-editor-
+
 
 # Simple Rich Text Editor
-# A minimalistic rich text editor built with Plain JavaScript, CSS, and HTML.
+ A minimalistic rich text editor built with Plain JavaScript, CSS, and HTML.
 
 # Table of Contents
-# Demo
-# Features
-# Getting Started
-# Usage
-# Keyboard Shortcuts
-# Customization
+ Demo
+ Features
+ Getting Started
+ Usage
+ Keyboard Shortcuts
+ Customization
 
 # Demo
 You can see a live demo of the editor here.
