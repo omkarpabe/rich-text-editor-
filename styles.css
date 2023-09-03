@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.editor {
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.toolbar button {
+    margin-right: 5px;
+}
+
+.content {
+    border: 1px solid #ccc;
+    min-height: 200px;
+    padding: 10px;
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    
+    <title>Rich Text Editor</title>
+</head>
+<body>
+    <div class="editor">
+        <div class="toolbar">
+            <button onclick="execCmd('bold')">Bold</button>
+            <button onclick="execCmd('italic')">Italic</button>
+            <button onclick="execCmd('underline')">Underline</button>
+            <button onclick="execCmd('insertOrderedList')">Numbered List</button>
+            <button onclick="execCmd('insertUnorderedList')">Bulleted List</button>
+            <button onclick="execCmd('outdent')">Indent Less</button>
+            <button onclick="execCmd('indent')">Indent More</button>
+        </div>
+        <div class="content" contenteditable="true"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
