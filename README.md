@@ -12,7 +12,7 @@
  Customization
 
 # Demo
-You can see a live demo of the editor here.
+You can see a live demo of the editor here. https://cheery-churros-34cba5.netlify.app/
 
 # Features
 This rich text editor includes the following basic features:
